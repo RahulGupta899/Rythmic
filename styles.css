@@ -55,8 +55,9 @@
 
 @media (max-width:900px){
   .headpara{
-/*     top:10%; */
+    bottom:70%; 
     font-size:2rem;
+    color:green;
   }
 }
 
