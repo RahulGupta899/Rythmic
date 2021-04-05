@@ -49,15 +49,14 @@
   font-weight:900;
   color:#fff;
   position: absolute;
-  top:20%;
+  top:35%;
   left:55%;
 }
 
 @media (max-width:900px){
   .headpara{
-    bottom:70%; 
+    bottom:75%; 
     font-size:2rem;
-    color:green;
   }
 }
 
